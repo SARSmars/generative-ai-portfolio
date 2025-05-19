@@ -1,1 +1,12 @@
+generative-ai-portfolio/
+│
+├── README.md
+├── project1/
+│   ├── model/
+│   ├── data/
+│   ├── results/
+│   └── ...
+├── project2/
+│   └── ...
+└── assets/
 
